@@ -1,1 +1,1 @@
-a simple clock app
+a simple clock apps
